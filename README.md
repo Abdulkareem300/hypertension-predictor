@@ -19,7 +19,8 @@ Built with Streamlit and deployed using Streamlit Community Cloud.
 
 Disclaimer
 This is an educational project and not a substitute for professional medical diagnosis or clinical assessment.
+Author
+Omoteso Abdulkareem
+Junior ML engineer
 
 
-**Abdulkareem Olansile**  
-Optometry Student | Aspiring AI/ML Engineer
