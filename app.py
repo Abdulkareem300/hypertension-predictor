@@ -3,6 +3,7 @@ import pandas as pd
 import numpy as np
 import joblib
 
+
 # 1. Load the model and scaler
 @st.cache_resource
 def load_assets():
