@@ -80,7 +80,7 @@ creatinine_options = {
     "Abnormal / Elevated Serum Creatinine levels": 1
 }
 
-BUN_options = {
+bun_options = {
     "Normal Blood Urea Nitrogen levels": 0,
     "Abnormal / Elevated Blood Urea Nitrogen levels": 1
 }
